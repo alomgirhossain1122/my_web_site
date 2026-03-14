@@ -7,5 +7,6 @@
       <h1>My name is Alomgir Hossain</h1>
       <p>This is a web pages</p>
       <h1 style="background_color: blue;">Hello world</h1>
+      <h2 ="color: blue;">Hi</h2>
   </body>
 </html>
